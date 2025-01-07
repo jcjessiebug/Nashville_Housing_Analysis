@@ -4,7 +4,7 @@ This project analyzes housing prices in Nashville to uncover key trends, identif
 
 ## Project Overview
 
-With Nashville's dynamic real estate market, understanding housing price trends is critical for investors and policymakers. This project leverages advanced data analytics and visualization techniques to explore housing price patterns, relationships between property features, and value disparities.
+With Nashville's dynamic real estate market, understanding housing price trends is critical for investors and policymakers. This project leverages data analytics and visualization techniques to explore housing price patterns, relationships between property features, and value disparities.
 
 ## Dataset
 
