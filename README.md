@@ -18,5 +18,5 @@ The dataset includes over 22,000 property records from Nashville, encompassing 2
 The dataset also categorized properties into two classes based on their valuation:
 
 - **Undervalued**: Sale price is significantly lower than the combined building and land values.
--**Overvalued**: Sale price is significantly higher than the assessed value.
+- **Overvalued**: Sale price is significantly higher than the assessed value.
 
